@@ -1,1 +1,3 @@
-# RU
+# coding-challenges
+
+# Codewars
